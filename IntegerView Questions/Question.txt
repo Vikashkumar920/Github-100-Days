@@ -1,0 +1,136 @@
+**20 INTERVIEW QUESTIONS**
+
+1. Tell me about yourself.
+
+Answer:
+"Good morning sir/ma'am. My name is Vikash Kumar, and I am currently pursuing a B.Tech in Computer Science Engineering from Galgotias University. I have a strong interest in software development and problem-solving. My primary programming language is Java, and I regularly practice Data Structures and Algorithms. I have solved over 400 problems on LeetCode and built projects such as an Online Voting System, Currency Converter, and Employee Management System. I am currently looking for an opportunity where I can apply my skills, learn from experienced professionals, and grow as a software developer."
+
+2. Why did you choose Computer Science?
+
+Answer:
+"I chose Computer Science because I enjoy solving problems and building applications that can help people. During my studies, I became interested in programming, especially Java, and I found satisfaction in turning ideas into working software. That's what motivated me to continue in this field."
+
+3. What are your strengths?
+
+Answer:
+"My strengths are consistency, problem-solving, and adaptability. I regularly practice coding, learn new concepts quickly, and stay committed to completing tasks. For example, solving 400+ LeetCode problems required discipline and continuous learning."
+
+4. What is your weakness?
+
+Answer:
+"One area I am working on is public speaking. Earlier, I was not very confident while presenting in front of a group. To improve this, I have started participating more in discussions and presentations, and I can already see progress."
+
+5. Why should we hire you?
+
+Answer:
+"I have a strong foundation in Java, Data Structures, and problem-solving. I am a quick learner, work well with others, and am eager to learn new technologies. While I may be a fresher, I am dedicated, hardworking, and ready to contribute to the team from day one."
+
+6. Tell us about a project you worked on.
+
+Answer:
+"I developed an Online Voting System using Java. The project allows users to register, log in, and vote securely. Through this project, I learned object-oriented programming, data handling, and how to structure a real-world application."
+
+7. Where do you see yourself in 5 years?
+
+Answer:
+"In five years, I see myself as a skilled software engineer with strong technical expertise and experience working on impactful projects. I also hope to take on more responsibilities and contribute to mentoring junior team members."
+
+8. Do you have any questions for us?
+
+Answer:
+"Yes, thank you. What does the learning and growth path look like for freshers in your organization, and what skills do your top-performing engineers focus on developing?"
+
+These answers sound natural, professional, and suitable for a fresher CSE student. Avoid memorizing word-for-word; understand the points and speak in your own style.
+
+next
+9. What programming languages do you know?
+
+Answer:
+"I am most comfortable with Java and use it for DSA and projects. I also have knowledge of Python, SQL, HTML, CSS, and JavaScript. Among these, Java is my strongest language because I have used it extensively for coding practice and project development."
+
+10. What is your biggest achievement so far?
+
+Answer:
+"My biggest achievement is consistently improving my problem-solving skills by solving more than 400 coding problems on LeetCode. It has strengthened my understanding of Data Structures and Algorithms and improved my confidence in tackling challenging problems."
+
+11. How do you handle pressure or deadlines?
+
+Answer:
+"I handle pressure by breaking work into smaller tasks and prioritizing important items first. During exams and project submissions, I create a schedule and focus on completing one task at a time, which helps me stay calm and productive."
+
+12. Have you ever worked in a team?
+
+Answer:
+"Yes. During academic projects, I worked with teammates to divide responsibilities, discuss solutions, and complete tasks on time. I learned the importance of communication, coordination, and supporting each other to achieve a common goal."
+
+13. What motivates you?
+
+Answer:
+"I am motivated by learning new things and seeing my progress over time. Whether it's solving a difficult coding problem or completing a project feature, achieving small goals keeps me motivated to improve further."
+
+14. What do you know about our company?
+
+Answer:
+"From my research, I understand that your company focuses on delivering innovative technology solutions and values continuous learning and teamwork. I am particularly interested in the opportunities for growth and the chance to work on real-world projects with experienced professionals."
+
+(Research the company before the interview and customize this answer.)
+
+15. Why do you want to join our company?
+
+Answer:
+"I want to join your company because it provides a strong learning environment for freshers and offers opportunities to work on meaningful projects. I believe my skills and enthusiasm align well with your organization's culture, and I can grow professionally while contributing to the team."
+
+16. Describe a challenge you faced and how you solved it.
+
+Answer:
+"While working on a project, I encountered a bug that caused incorrect output. Instead of rushing to fix it, I debugged the code step by step, checked the logic, and identified the root cause. This experience taught me patience and the importance of systematic problem-solving."
+
+17. What is your favorite subject in Computer Science?
+
+Answer:
+"My favorite subject is Data Structures and Algorithms because it improves logical thinking and helps write efficient solutions. I enjoy solving coding problems and learning different approaches to optimize performance."
+
+18. Are you willing to relocate?
+
+Answer:
+"Yes, I am open to relocation if required by the company. I view it as an opportunity to gain new experiences and grow professionally."
+
+19. Why are your grades not higher? (If asked)
+
+Answer:
+"While academics are important, I have also invested significant time in improving my practical skills through coding practice, projects, and learning new technologies. These experiences have helped me develop strong technical and problem-solving abilities alongside my coursework."
+
+20. Any final message?
+
+Answer:
+"Thank you for giving me this opportunity. I am excited about the possibility of joining your team. I am eager to learn, contribute, and grow as a software engineer, and I look forward to the opportunity to prove myself."
+
+These 20 questions cover about 80–90% of common HR interviews for freshers. After this, you should also prepare for technical questions on Java, OOPs, DBMS, SQL, DSA, and Projects, which are usually asked in the technical round.
+
+about project i think this is few words we need more
+
+Yes. For "Tell me about your project", HR or an interviewer usually expects a 1–2 minute explanation, not just 2–3 lines.
+
+Online Voting System Project
+
+Answer:
+
+"One of my major projects is an Online Voting System developed using Java. The main objective of this project is to provide a secure and efficient platform where users can cast their votes digitally.
+
+In this project, there are two types of users: Admin and Voter. The Admin can manage candidates, monitor voting activities, and view election results. Voters can register, log in securely, and cast their vote. To ensure fairness, each voter is allowed to vote only once.
+
+While developing this project, I applied Object-Oriented Programming concepts such as classes, objects, inheritance, and encapsulation. I also worked with file handling/database concepts to store user and voting data. One challenge I faced was preventing duplicate voting and maintaining accurate vote counts. I solved this by implementing proper validation and checking mechanisms.
+
+This project helped me improve my Java programming skills, problem-solving abilities, and understanding of how real-world applications are designed and developed. It also taught me the importance of testing and debugging to ensure the system works correctly."
+
+If HR asks: "What was your role in this project?"
+
+Answer:
+
+"I developed the project myself. I was responsible for designing the system, writing the Java code, implementing the login and voting functionalities, handling data storage, testing the application, and fixing bugs. Through this process, I gained hands-on experience in software development."
+
+If HR asks: "What did you learn from this project?"
+
+Answer:
+
+"Through this project, I learned how to convert a real-world problem into a software solution. I improved my understanding of Java, OOP concepts, debugging, validation techniques, and project structuring. It also enhanced my problem-solving and logical thinking skills."
